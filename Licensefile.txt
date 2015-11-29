@@ -1,4 +1,4 @@
-*Java License*:
+Java License:
 
 Java can be used as is without modifying the software
 
@@ -76,7 +76,7 @@ Last updated 02 April 2013
 
 ------------------------------------------------------------------------------------------------------------
 
-__JetBrains MPS License__:
+JetBrains MPS License:
 
 MPS is licensed under the Apache 2 open-source license.
 
@@ -138,7 +138,7 @@ END OF TERMS AND CONDITIONS
 
 ------------------------------------------------------------------------------------------------------------
 
-__mbeddr C License__:
+mbeddr C License:
 
 mbeddr is open source.It is licensed under the Eclipse Public License v 1.0
 
