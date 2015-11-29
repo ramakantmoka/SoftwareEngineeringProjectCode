@@ -1,4 +1,4 @@
-__Java License__:
+*Java License*:
 
 Java can be used as is without modifying the software
 
