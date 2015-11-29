@@ -1,0 +1,35 @@
+Installing java.
+
+1. Run the following commands to install java in ubuntu
+	sudo apt-add-repository ppa:webupd8team/java
+	sudo apt-get update
+	sudo apt-get install oracle-java8-installer
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Installing mbeddr C packages.
+
+1. Go to the mbeddr C package release page to get the plugins. Version 1.0 RC1
+   Release page URL - https://github.com/mbeddr/mbeddr.core/releases
+
+2. Extract the folder to get the plugins.
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+Installing Jetbrains MPS.
+
+1. Go to Jetbrains MPS website and download the package.
+   Website : https://www.jetbrains.com/mps/download/
+
+2. Extract the folder 
+
+3. After unzipping, please take all folders inside the plugins directory of mbeddr C and copy them into the plugins directory of your 
+   MPS installation.
+   Note that there is also a plugin (without the s) directory under MPS. So, for example, after copying, there should be a 
+   $MPS_DIR$/plugins/mbeddr.core directory. 
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+Attribution:
+
+Thanks to authors Dr.Markus Voelter and Vaclav Pech
